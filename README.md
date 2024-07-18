@@ -1,1 +1,2 @@
 # trajektoria-robota-mobilnego
+test
